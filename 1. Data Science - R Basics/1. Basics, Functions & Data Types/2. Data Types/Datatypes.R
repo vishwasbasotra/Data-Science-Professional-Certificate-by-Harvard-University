@@ -1,0 +1,19 @@
+library(dslabs)
+a<-5
+class(a)
+class(ls)
+data("murders")
+class("murders")
+str(murders)
+head(murders)
+names(murders)
+murders$population
+pop<-murders$population
+length(pop)
+length(murders$population)
+class(murders$state)
+z <- 3==2
+z
+class(z)
+class(murders$region)
+levels(murders$region)
