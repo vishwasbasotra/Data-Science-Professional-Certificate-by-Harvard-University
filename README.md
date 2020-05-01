@@ -1,2 +1,2 @@
-# Data-Science-Professional-Certificate-by-Harvard-University
+# Data Science Professional Certificate by Harvard University
 Perhaps the most popular data science methodologies come from machine learning. What distinguishes machine learning from other computer guided decision processes is that it builds prediction algorithms using data. Some of the most popular products that use machine learning include the handwriting readers implemented by the postal service, speech recognition, movie recommendation.
